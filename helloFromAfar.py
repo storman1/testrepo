@@ -1,1 +1,1 @@
-print("Hello from my remote location")
+print("Hello from my desktop workstation")
